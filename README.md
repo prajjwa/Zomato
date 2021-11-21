@@ -1,5 +1,13 @@
 ﻿
 
+This Project Involved doing case study on restaurants on india via zomato API.
+
+Skills Involved:
+Python
+Numpy
+Pandas
+APIs
+
 **Prajjwal Singh**
 
 **Plot the bar graph of a number of restaurants present in Delhi NCR vs Rest of India.**
